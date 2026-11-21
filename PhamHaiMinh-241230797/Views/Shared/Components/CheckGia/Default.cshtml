@@ -1,0 +1,13 @@
+﻿@model List<PhamHaiMinh_241230797.Models.TaiSan>
+@for(int i = 0; i < Model.Count(); i += 4)
+{
+    <div class="grid">
+        @foreach(var item in Model.Skip(i).Take(4)){
+            <div class="asset-card">
+                <a href="#"><img src="images/@item.Anh" alt="" /></a>
+                <h2>@item.TenTs</h2>
+                <div class="asset-foot"><span class="price">@item.NguyenGia</span><button class="btn-buy">Chi tiết</button></div>
+            </div>
+        }
+    </div>
+}

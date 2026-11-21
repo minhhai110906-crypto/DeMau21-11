@@ -1,0 +1,8 @@
+﻿@model List<PhamHaiMinh_241230797.Models.LoaiTaiSan>
+<ul class="menu">
+    <li><a href="#">Pham Hai Minh</a></li>
+    @foreach(var loaitaisan in Model)
+    {
+        <li><a href="#">@loaitaisan.TenLoai</a></li>
+    }
+</ul>

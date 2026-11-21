@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|c:\\hihi\\dethimaultw21-11\\phamhaiminh-241230797\\views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|solutionrelative:views\\shared\\components\\menu\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|c:\\hihi\\dethimaultw21-11\\phamhaiminh-241230797\\viewcomponents\\menuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|solutionrelative:viewcomponents\\menuviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|c:\\hihi\\dethimaultw21-11\\phamhaiminh-241230797\\views\\shared\\phamhaiminh_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|solutionrelative:views\\shared\\phamhaiminh_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|c:\\hihi\\dethimaultw21-11\\phamhaiminh-241230797\\views\\shared\\components\\checkgia\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|solutionrelative:views\\shared\\components\\checkgia\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|c:\\hihi\\dethimaultw21-11\\phamhaiminh-241230797\\views\\shared\\phamhaiminh_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|solutionrelative:views\\shared\\phamhaiminh_maincontent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|c:\\hihi\\dethimaultw21-11\\phamhaiminh-241230797\\viewcomponents\\checkgiaviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|solutionrelative:viewcomponents\\checkgiaviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|c:\\hihi\\dethimaultw21-11\\phamhaiminh-241230797\\views\\shared\\phamhaiminh_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|solutionrelative:views\\shared\\phamhaiminh_header.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|c:\\hihi\\dethimaultw21-11\\phamhaiminh-241230797\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Models\\QltaiSanContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Models\\QltaiSanContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|c:\\hihi\\dethimaultw21-11\\phamhaiminh-241230797\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|c:\\hihi\\dethimaultw21-11\\phamhaiminh-241230797\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|c:\\hihi\\dethimaultw21-11\\phamhaiminh-241230797\\views\\shared\\phamhaiminh_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C00C5D63-8B68-4394-A70E-FD8AF79D781A}|PhamHaiMinh-241230797.csproj|solutionrelative:views\\shared\\phamhaiminh_footer.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{25f7e850-ffa1-11d0-b63f-00a0c922e851}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\Shared\\Components\\CheckGia\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\CheckGia\\Default.cshtml",
+              "ToolTip": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\Shared\\Components\\CheckGia\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\CheckGia\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T01:16:48.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhamHaiMinh_Layout.cshtml",
+              "DocumentMoniker": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\Shared\\PhamHaiMinh_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\PhamHaiMinh_Layout.cshtml",
+              "ToolTip": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\Shared\\PhamHaiMinh_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\PhamHaiMinh_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T00:33:29.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MenuViewComponent.cs",
+              "DocumentMoniker": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\ViewComponents\\MenuViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\MenuViewComponent.cs",
+              "ToolTip": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\ViewComponents\\MenuViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\MenuViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T00:46:21.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ToolTip": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "RelativeToolTip": "Views\\Shared\\Components\\Menu\\Default.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T01:04:16.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhamHaiMinh_MainContent.cshtml",
+              "DocumentMoniker": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\Shared\\PhamHaiMinh_MainContent.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\PhamHaiMinh_MainContent.cshtml",
+              "ToolTip": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\Shared\\PhamHaiMinh_MainContent.cshtml",
+              "RelativeToolTip": "Views\\Shared\\PhamHaiMinh_MainContent.cshtml",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T00:32:51.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CheckGiaViewComponent.cs",
+              "DocumentMoniker": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\ViewComponents\\CheckGiaViewComponent.cs",
+              "RelativeDocumentMoniker": "ViewComponents\\CheckGiaViewComponent.cs",
+              "ToolTip": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\ViewComponents\\CheckGiaViewComponent.cs",
+              "RelativeToolTip": "ViewComponents\\CheckGiaViewComponent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T01:12:07.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "QltaiSanContext.cs",
+              "DocumentMoniker": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Models\\QltaiSanContext.cs",
+              "RelativeDocumentMoniker": "Models\\QltaiSanContext.cs",
+              "ToolTip": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Models\\QltaiSanContext.cs",
+              "RelativeToolTip": "Models\\QltaiSanContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T00:43:59.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PhamHaiMinh_Header.cshtml",
+              "DocumentMoniker": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\Shared\\PhamHaiMinh_Header.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\PhamHaiMinh_Header.cshtml",
+              "ToolTip": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\Shared\\PhamHaiMinh_Header.cshtml",
+              "RelativeToolTip": "Views\\Shared\\PhamHaiMinh_Header.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T00:31:57.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-21T01:00:31.661Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T00:39:01.24Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T00:38:11.397Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PhamHaiMinh_Footer.cshtml",
+              "DocumentMoniker": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\Shared\\PhamHaiMinh_Footer.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\PhamHaiMinh_Footer.cshtml",
+              "ToolTip": "C:\\hihi\\DeThiMauLTW21-11\\PhamHaiMinh-241230797\\Views\\Shared\\PhamHaiMinh_Footer.cshtml",
+              "RelativeToolTip": "Views\\Shared\\PhamHaiMinh_Footer.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-11-21T00:32:24.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
